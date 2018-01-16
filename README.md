@@ -11,7 +11,7 @@ Home Page
 After we enter the website, home page will appear first. There is a navigation bar at the top of this page. When we haven’t logged in it will shows “sign up” and “login” at the right top corner. Once we’ve logged in these two button will be changed into a drawer named “User”.
 
 Let’s first start without login. Here we can see all previous posts without having to login like Figure.1. Every item in homepage will show avatar of the poster, title, content, pictures, name of the poster, post time and a little star for collection. All items are sorted in decreasing order of post time. If we need to see details of an item, just click its title then we will be directed to a detailed page where we can also comment on it. Click the thumbnail in this detailed page, the picture will be enlarged to full screen like Figure.2 and Figure.3. (Note: If we try to make a comment or new post, it will direct us to login page to ask us login first.)
-![image] (https://github.com/Hanmu-Zuo/Web-Project/blob/master/Figure1.jpg)
+![Alt text](https://github.com/Hanmu-Zuo/Web-Project/blob/master/Figure1.jpg)
 ![Alt text](https://github.com/chenyufeng1991/NewsClient/raw/master/Screenshots/2.png)
 Fugure.1
  
