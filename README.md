@@ -1,5 +1,5 @@
 # Web-Project
-# How to deploy the web
+## How to deploy the web
 
 All lecture and tutorial examples require the following in order to work:
     - Python 2.7
@@ -68,11 +68,11 @@ aws_secret_access_key.
 
 # User Documentation
 
-Overview
+## Overview
 
 The name of our website is Mini Piazza. It aims to provide students a public community to ask questions about courses or everything interesting in their life. Compared with Piazza, the UI design of our website is more colorful and neat. Now, let’s start using it.
 
-Home Page
+## Home Page
 
 
 After we enter the website, home page will appear first. There is a navigation bar at the top of this page. When we haven’t logged in it will shows “sign up” and “login” at the right top corner. Once we’ve logged in these two button will be changed into a drawer named “User”.
@@ -101,7 +101,7 @@ Figure.5
 ![Alt text](https://github.com/Hanmu-Zuo/Web-Project/blob/master/Figure6.jpg) 
 Figure.6
 
-New Post
+## New Post
 
 If we want to post a new item, we need to first login or once we click “New Post” button we will be directed to Login page automatically. The New Post page is like Figure.7. It allows us to upload pictures and show the thumbnail of picture. Note we only allow user to upload pictures which is less than 1000KB, or it will return us a warning message like Figure.8. Of course I can also change this limitation in my code to other size. If the size of picture is legal, it will show thumbnails of them like Figure.9. Click “Post Now”, we’ll see this new post in home page.
 ![image](https://github.com/Hanmu-Zuo/Web-Project/blob/master/Figure7.jpg) 
@@ -114,13 +114,13 @@ Figure.8
  
 Figure.9
 
-Search
+## Search
 
 “Search” button in navigation bar allows us to search all items that contain certain key word both in their title and content. Just type our key word and the items shown in current page will be the result like Figure.10.
 ![image](https://github.com/Hanmu-Zuo/Web-Project/blob/master/Figure10.jpg) 
 Figure.10
 
-Sign Up and Login
+## Sign Up and Login
 
 By clicking sign up and Login button on navigation bar, we will be directed to these two pages. In order to attract more people to use our website, we make a carousel effect for background like Figure.11 and Figure.12. Since Piazza is a community mainly for academic questions, which means time is precious so we add a semi-transparent clock to remind user the flowing of time. The process for login and sign up is just as normal as other websites. And user’s information including account’s creating time will be stored in
  
@@ -132,7 +132,7 @@ Figure.11
  
 Figure.12
 
-User
+## User
 
 After login, there will be a “user” button on the right up corner of the page. When you click it, there will be a dropdown-menu showing up which contain four sublabels: “information”,”password”,”collection”,”logout”, as shown in Figure.13
  
@@ -141,7 +141,7 @@ After login, there will be a “user” button on the right up corner of the pag
 ![image](https://github.com/Hanmu-Zuo/Web-Project/blob/master/Figure13.jpg)
 Figure.13
 
-User Information
+## User Information
 
 When you click information button, the website will jump to userinformation page as shown in Figure.14
 ![image](https://github.com/Hanmu-Zuo/Web-Project/blob/master/Figure14.jpg)
@@ -156,7 +156,7 @@ Below the userinformation page are all the answers you have been posted(sorted i
 ![image](https://github.com/Hanmu-Zuo/Web-Project/blob/master/Figure15.jpg)
 Figure.15
 
-Change password
+## Change password
 
 When you click the “change password” bottom, you can change the password of the user. the page is as shown in Figure.16. Make sure that you input the same password twice, otherwise it will return a error message as shown in Figure.17. After you have change the password successfully, the page will redirct to index page.
 
@@ -168,7 +168,7 @@ Figure.16
 ![image](https://github.com/Hanmu-Zuo/Web-Project/blob/master/Figure17.jpg)
 Figure.17
 
-Logout
+## Logout
 
 When you click the “logout” button, you will logout and the yours session will be popped out, and the page will redirect to login page, just as shown in the Figure.18
 .
@@ -178,7 +178,7 @@ Figure.18
 
 
 
-Loading
+## Loading
 
 Between some pages we also add a loading page to let user know that the page is loading please wait like Figure.19
  
