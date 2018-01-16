@@ -1,2 +1,2 @@
 # Web-Project
-Student Q&amp;A Community
+Cloud Photo Gallery
