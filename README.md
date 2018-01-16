@@ -1,5 +1,5 @@
 # Web-Project
-How to deploy the web
+# How to deploy the web
 
 All lecture and tutorial examples require the following in order to work:
     - Python 2.7
@@ -66,7 +66,7 @@ aws_secret_access_key.
 
 
 
-User Documentation
+# User Documentation
 
 Overview
 
